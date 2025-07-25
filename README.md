@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+...content from one commit...
+=======
+...content from another commit...
+>>>>>>> 032ef5b
+
 # 🧭 AI Travel Planner App
 
 **Your Personal AI-Powered Travel Assistant**  
