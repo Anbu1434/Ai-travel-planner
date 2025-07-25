@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-...content from one commit...
-=======
-...content from another commit...
->>>>>>> 032ef5b
+# AI Travel Planner
+This app helps you plan your trips using smart AI features.
 
 # 🧭 AI Travel Planner App
 
